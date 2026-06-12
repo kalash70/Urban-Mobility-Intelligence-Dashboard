@@ -25,6 +25,22 @@ This project aims to answer questions such as:
 
 ---
 
+## Dashboard Overview
+
+## Geographic Insights Dashboard
+<img width="2543" height="1672" alt="image" src="https://github.com/user-attachments/assets/90862986-b30d-4ba1-9582-35a128d74dcb" />
+
+## Demand Analytics Dashboard
+<img width="2550" height="1642" alt="image" src="https://github.com/user-attachments/assets/2a768d5d-02b2-49d2-838d-cf4cda3c962f" />
+
+## Revenue & Customer Behavior Dashboard
+<img width="2447" height="1629" alt="image" src="https://github.com/user-attachments/assets/2a80d132-a7fa-46a5-b599-a9a862a5f03c" />
+
+## Operational Efficiency Dashboard
+<img width="2913" height="1725" alt="image" src="https://github.com/user-attachments/assets/76f859c2-6da0-4f57-b550-ccb5b0e756d4" />
+
+
+
 ## Dataset
 
 Source: NYC Taxi & Limousine Commission (TLC)
