@@ -95,7 +95,28 @@ Additional analytical features were created to support business insights.
 
 The project contains four interactive dashboards.
 
-### 1. Geographic Insights Dashboard
+### 1.  Revenue & Customer Behavior Dashboard
+
+Purpose:
+
+Evaluate fare generation and customer payment behavior.
+
+Visualizations:
+
+* Fare vs Distance Analysis
+* Revenue by Zone
+* Revenue by Rate Code
+* Tip Behavior by Zone
+* Revenue by Payment Type
+
+Key Insights:
+
+* Airport routes generate substantial revenue
+* Credit card transactions dominate revenue streams
+* Tipping behavior varies significantly across locations
+
+
+### 2. Geographic Insights Dashboard
 
 Purpose:
 
@@ -116,7 +137,7 @@ Key Insights:
 
 ---
 
-### 2. Demand Analytics Dashboard
+### 3. Demand Analytics Dashboard
 
 Purpose:
 
@@ -137,27 +158,6 @@ Key Insights:
 
 ---
 
-### 3. Revenue & Customer Behavior Dashboard
-
-Purpose:
-
-Evaluate fare generation and customer payment behavior.
-
-Visualizations:
-
-* Fare vs Distance Analysis
-* Revenue by Zone
-* Revenue by Rate Code
-* Tip Behavior by Zone
-* Revenue by Payment Type
-
-Key Insights:
-
-* Airport routes generate substantial revenue
-* Credit card transactions dominate revenue streams
-* Tipping behavior varies significantly across locations
-
----
 
 ### 4. Operational Efficiency Dashboard
 
